@@ -29,6 +29,17 @@
   }
 }
 
+.btn.btn-green {
+  border-color: #74BC43;
+  background-color: #74BC43;
+  color: white;
+  &:hover {
+    border-color: #74BC43;
+    color: #74BC43;
+    background-color: white;
+  }
+}
+
 .speaker-slider {
   text-align: center;
 }
@@ -85,10 +96,27 @@ ul.lead {
   margin-left: 80px
 }
 
-.plan-features {
-  height: 200px;
+.pricing-item {
+  height: 430px;
 }
 
+.plan-features {
+  font-size: 18px;
+}
+
+td {
+  padding: 5px;
+}
+
+.remove-this-class {
+  text-align: center;
+  font-size: 18px;
+  list-style-type: none;
+  opacity: 0.7;
+  margin-top: -15px;
+  height: 145px;
+  margin-left: -220px;
+}
 .pricing-item .price .vat {
   font-size: 14px;
   vertical-align: baseline;
