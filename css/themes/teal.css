@@ -86,7 +86,7 @@ a:focus,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
     color: #FFF;
-    background-color: #2E897E;
+    background-color: #00A59E;
 }
 /*border*/
 
@@ -106,7 +106,7 @@ a:focus,
   ------- */
 
 .btn-default {
-    color: #2E897E;
+    color: #00A59E;
     border-color: #FFF;
 }
 
@@ -131,8 +131,8 @@ a:focus,
 }
 
 .btn-success {
-    background-color: #2E897E;
-    border-color: #2E897E;
+    background-color: #00A59E;
+    border-color: #00A59E;
 }
 
 .btn-success:hover,
@@ -140,8 +140,8 @@ a:focus,
 .btn-success:active,
 .btn-success.active {
     background-color: #FFF;
-    border-color: #2E897E;
-    color: #2E897E;
+    border-color: #00A59E;
+    color: #00A59E;
 }
 
 .btn-outline {
