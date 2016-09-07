@@ -1600,7 +1600,12 @@ p,
     vertical-align: super;
     font-weight: 400;
 }
-
+.pricing-item .price .plan-price-text {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 200;
+  margin-right: -20px;
+}
 .pricing-item {
     -moz-transition: all 0.6s ease;
     -webkit-transition: all 0.6s ease;
